@@ -33,7 +33,7 @@
 
 1. 访问 [阿里云 AccessKey 管理页面](https://ram.console.aliyun.com/manage/ak)。
 2. 创建一个新的 AccessKey 并记录下 AccessKey ID 和 AccessKey Secret，稍后将在 DDNS-GO 设置中使用。
-   ![Accesskey2](img/Accesskey2.png)
+   ![Accesskey2](img/accesskey2.png)
 
 > ⚠️ **注意：** AccessKey 的权限很重要，请确保保密。并且好好保存！
 
